@@ -1,0 +1,5 @@
+print('Hello,world1.')
+print("welcome to cos101 practical")
+print('this is my frit project on cos101 in veritas university')
+print("izzy na werey")
+print("martins is a badass")
